@@ -1,0 +1,16 @@
+# Altium stuff
+
+*.PcbDocPreview
+*.SchDocPreview
+*.SCHDOCPreview
+*.PrjPCBStructure
+*.PcbDoc.htm/Altium/
+Project\ Logs\ */*
+*/Altium/
+*/History/
+Project\ Outputs\ */*
+*/Altium/History/Altium/
+*/History/Thumbs.db
+*.OutJob
+*History/
+*.htm
