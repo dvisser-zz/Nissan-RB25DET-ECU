@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for Nissan-RB25DET-ECU
+OutputPath=
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -176,22 +176,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=Knock Sensing.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document11]
 DocumentPath=Low Side Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +191,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document11]
 DocumentPath=Power Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,23 +207,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
-DocumentPath=RS232 Comms.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document14]
+[Document12]
 DocumentPath=SD Card Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +223,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
+[Document13]
 DocumentPath=USB Comms.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +239,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document14]
 DocumentPath=CAS Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +255,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document17]
+[Document15]
 DocumentPath=Nissan-RB25DET-ECU.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
